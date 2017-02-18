@@ -24,3 +24,4 @@ This project requires **Python 3.5** and the following Python libraries installe
 
 The dataset used is a preprocessed version of the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). The images were already resized to 32x32 pixels and stored in two pickel files. You can download the pickled dataset [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/October/580d53ce_traffic-sign-data/traffic-sign-data.zip).
 
+
